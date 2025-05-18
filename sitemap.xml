@@ -5,27 +5,27 @@
           xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
      <url>
-                 <loc>index.html</loc>
-                 <lastmod>2025-05-18T19:00:02+00:00</lastmod>
+                 <loc>https://github.com/johnp229yaccs/githubtest/blob/main/index.html</loc>
+                 <lastmod>2025-05-18T19:01:29+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>privacy-policy.html</loc>
-                 <lastmod>2025-05-18T19:00:02+00:00</lastmod>
+                 <loc>https://github.com/johnp229yaccs/githubtest/blob/main/privacy-policy.html</loc>
+                 <lastmod>2025-05-18T19:01:29+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>feed.xml</loc>
-                 <lastmod>2025-05-18T19:00:02+00:00</lastmod>
+                 <loc>https://github.com/johnp229yaccs/githubtest/blob/main/sitemap.html</loc>
+                 <lastmod>2025-05-18T19:01:29+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>sitemap.xml</loc>
-                 <lastmod>2025-05-18T19:00:02+00:00</lastmod>
+                 <loc>https://github.com/johnp229yaccs/githubtest/blob/main/sitemap.xml</loc>
+                 <lastmod>2025-05-18T19:01:29+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>sitemap.html</loc>
-                 <lastmod>2025-05-18T19:00:02+00:00</lastmod>
+                 <loc>https://github.com/johnp229yaccs/githubtest/blob/main/about-us.html</loc>
+                 <lastmod>2025-05-18T19:01:29+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>about-us.html</loc>
-                 <lastmod>2025-05-18T19:00:02+00:00</lastmod>
+                 <loc>https://github.com/johnp229yaccs/githubtest/blob/main/feed.xml</loc>
+                 <lastmod>2025-05-18T19:01:29+00:00</lastmod>
                  <priority>0.80</priority>
                </url></urlset>
