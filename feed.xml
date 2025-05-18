@@ -12,8 +12,8 @@
     <title>GitHub Testing YACCS</title>
     <atom:link href="https://github.com/johnp229yaccs/githubtest/blob/main/feed.xml" rel="self" type="application/rss+xml"/>
     <link>https://github.com/johnp229yaccs/githubtest/blob/main/index.html</link>
-    <description></description>
-    <lastBuildDate>Sun, 18 May 2025 19:01:28 +0000</lastBuildDate>
+    <description>GitHub Testing YACCS</description>
+    <lastBuildDate>Sun, 18 May 2025 19:04:40 +0000</lastBuildDate>
     <language>en-US</language>
     <sy:updatePeriod>
     hourly  </sy:updatePeriod>
@@ -23,10 +23,12 @@
 <item>
     <title>GitHub Testing YACCS</title>
     <link>https://github.com/johnp229yaccs/githubtest/blob/main/index.html</link>
-    <pubDate>Sun, 18 May 2025 19:01:28 +0000</pubDate>
-    <category><![CDATA[SEO FAQ]]></category><guid  isPermaLink="false" >https://github.com/johnp229yaccs/githubtest/blob/main/index.html?p=682a2e8841f98</guid>
-    <description><![CDATA[ GitHub Testing YACCS      ]]></description>
-    <content:encoded><![CDATA[ GitHub Testing YACCS      ]]></content:encoded>
+    <pubDate>Sun, 18 May 2025 19:04:40 +0000</pubDate>
+    <category><![CDATA[SEO FAQ]]></category><guid  isPermaLink="false" >https://github.com/johnp229yaccs/githubtest/blob/main/index.html?p=682a2f484b8d0</guid>
+    <description><![CDATA[ <p>GitHub Testing YACCS</p>
+      ]]></description>
+    <content:encoded><![CDATA[ <p>GitHub Testing YACCS</p>
+      ]]></content:encoded>
 </item>
 </channel>
             </rss>
